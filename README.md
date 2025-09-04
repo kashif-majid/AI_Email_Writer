@@ -189,6 +189,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Create a new issue if you encounter problems
 
 ==========================================================================================
+==========================================================================================
+
 
 
 # B.Email Reply Generator (Frontend Part)
@@ -367,6 +369,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Bundled with [Vite](https://vitejs.dev/)
 
 ==========================================================================================
+==========================================================================================
+
 
 # C.Email Writer Assistant (Extension Part)
 
@@ -536,6 +540,8 @@ If you encounter any issues or have questions:
 **Note**: This extension requires a local AI service to function. Make sure your AI service is properly configured and running before using the extension.
 
 ==========================================================================================
+==========================================================================================
+
 ## 🔮 Future Enhancements
 
 - [ ] Add email template support
